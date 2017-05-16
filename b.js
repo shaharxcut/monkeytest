@@ -15,4 +15,5 @@ console.log('hello world')
 // add installaiton
 var secret = "ddslfjsdlf8ds7f8s7dfsdfhjksdfs8fsd"
 var secret = "ddslfjsdlf8ds7f8s7dfsdfhjsfsfsksdfs8fsd"
+console.log('blah')
 
